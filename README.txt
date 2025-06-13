@@ -1,5 +1,6 @@
 # 🟢 BetPulseToken
 
+[![IPFS Deployed](https://img.shields.io/badge/IPFS-QmWXxAtJ...-blue?logo=ipfs)](https://gateway.pinata.cloud/ipfs/QmWXxAtJyTdyiKyoycwobWCmYgkwq4CqDCHKgJKcvYEFki)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Solidity Version](https://img.shields.io/badge/Solidity-0.8.x-blue.svg)](https://soliditylang.org)
 [![Verified](https://img.shields.io/badge/Status-Verified-brightgreen.svg)](https://explorer.expanse.tech/address/0x1e69e4ca73b77cf806b946b659cd9811819a8b30)
@@ -34,6 +35,15 @@ Construído com OpenZeppelin
 📄 Licença
 Distribuído sob a licença MIT.
 Feito com 💚 por @ReddRJ
+
+## 🌐 IPFS Deployment
+
+O contrato foi empacotado e publicado no IPFS via Pinata.
+
+🔗 **Acesse direto:**  
+[https://gateway.pinata.cloud/ipfs/QmWXxAtJyTdyiKyoycwobWCmYgkwq4CqDCHKgJKcvYEFki](https://gateway.pinata.cloud/ipfs/QmWXxAtJyTdyiKyoycwobWCmYgkwq4CqDCHKgJKcvYEFki)
+
+🧬 **CID:** `QmWXxAtJyTdyiKyoycwobWCmYgkwq4CqDCHKgJKcvYEFki`
 
 ---
 
