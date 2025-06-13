@@ -1,28 +1,31 @@
-REMIX DEFAULT WORKSPACE
+# 🟢 BetPulseToken
 
-Remix default workspace is present when:
-i. Remix loads for the very first time 
-ii. A new workspace is created with 'Default' template
-iii. There are no files existing in the File Explorer
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Solidity Version](https://img.shields.io/badge/Solidity-0.8.x-blue.svg)](https://soliditylang.org)
+[![Verified](https://img.shields.io/badge/Status-Verified-brightgreen.svg)](https://explorer.expanse.tech/address/0x1e69e4ca73b77cf806b946b659cd9811819a8b30)
+[![Deployed](https://img.shields.io/badge/Deployed-Expanse-blue.svg)](https://explorer.expanse.tech/address/0x1e69e4ca73b77cf806b946b659cd9811819a8b30)
 
-This workspace contains 3 directories:
+> 🇧🇷 Versão em português abaixo ⬇️
 
-1. 'contracts': Holds three contracts with increasing levels of complexity.
-2. 'scripts': Contains four typescript files to deploy a contract. It is explained below.
-3. 'tests': Contains one Solidity test file for 'Ballot' contract & one JS test file for 'Storage' contract.
+---
 
-SCRIPTS
+## 🧾 English Version
 
-The 'scripts' folder has four typescript files which help to deploy the 'Storage' contract using 'web3.js' and 'ethers.js' libraries.
+**BetPulseToken** is a robust and secure ERC-20 token built for decentralized betting systems like `BTPBetting`, enabling fast, transparent, and trustless wagering on-chain.
 
-For the deployment of any other contract, just update the contract name from 'Storage' to the desired contract and provide constructor arguments accordingly 
-in the file `deploy_with_ethers.ts` or  `deploy_with_web3.ts`
+### ✨ Features
+- Fully compliant ERC-20 token
+- `Ownable` and `Pausable` security patterns
+- Built with OpenZeppelin Contracts
+- Compatible with Expanse Network
+- Ready for Web3 integration
 
-In the 'tests' folder there is a script containing Mocha-Chai unit tests for 'Storage' contract.
+### 🚀 Deployment Info
 
-To run a script, right click on file name in the file explorer and click 'Run'. Remember, Solidity file must already be compiled.
-Output from script will appear in remix terminal.
+- **Network:** Expanse  
+- **Creator:** [`0xC7F8...F2`](https://explorer.expanse.tech/address/0xC7F8d57a18A8e59fAF5aE9f3B58Baa8C9E1972F2)  
+- **Contract:** [`0x1e69...b30`](https://explorer.expanse.tech/address/0x1e69e4ca73b77cf806b946b659cd9811819a8b30)
 
-Please note, require/import is supported in a limited manner for Remix supported modules.
-For now, modules supported by Remix are ethers, web3, swarmgw, chai, multihashes, remix and hardhat only for hardhat.ethers object/plugin.
-For unsupported modules, an error like this will be thrown: '<module_name> module require is not supported by Remix IDE' will be shown.
+### 🧱 Project Structure
+
+Atualiza README multilíngue com badges
