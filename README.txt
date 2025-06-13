@@ -4,6 +4,11 @@
 [![Solidity Version](https://img.shields.io/badge/Solidity-0.8.x-blue.svg)](https://soliditylang.org)
 [![Verified](https://img.shields.io/badge/Status-Verified-brightgreen.svg)](https://explorer.expanse.tech/address/0x1e69e4ca73b77cf806b946b659cd9811819a8b30)
 [![Deployed](https://img.shields.io/badge/Deployed-Expanse-blue.svg)](https://explorer.expanse.tech/address/0x1e69e4ca73b77cf806b946b659cd9811819a8b30)
+[![Open in Remix](https://img.shields.io/badge/Open%20in-Remix-blue?logo=ethereum)](https://remix.ethereum.org/)
+[![Web3 Compatible](https://img.shields.io/badge/Web3-ready-green?logo=web3.js)](https://web3js.readthedocs.io/)
+[![Metamask Compatible](https://img.shields.io/badge/Metamask-Supported-orange?logo=metamask)](https://metamask.io/)
+[![IPFS Deployed](https://img.shields.io/badge/IPFS-hosted-brightgreen?logo=ipfs)](https://ipfs.io)
+[![Tests](https://img.shields.io/badge/Tests-passing-brightgreen)](./tests/)
 
 > 🇧🇷 Versão em português abaixo ⬇️
 BetPulseToken é um token ERC-20 robusto e confiável, criado para sistemas de apostas descentralizadas como o BTPBetting, permitindo transações rápidas e sem intermediários na blockchain.
